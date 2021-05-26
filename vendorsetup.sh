@@ -1,6 +1,6 @@
 KERNEL=https://github.com/Sleppyiecat/kernel_xiaomi_sm6150
 HW=https://github.com/LineageOS/android_hardware_xiaomi
-VENDOR=https://github.com/Nezuro-Network/vendor_xiaomi_davinci
+VENDOR=https://github.com/KangOS-Device/proprietary_vendor_xiaomi_davinci
 CAF=https://github.com/Nezuro-Network/hardware_qcom-caf_sm8150
 
 rm -rf hardware/qcom-caf/sm8150
